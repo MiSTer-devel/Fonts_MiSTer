@@ -68,7 +68,7 @@ namespace Txt2Pf
 
           for (var i = 0; i < highestChar; i++)
           {
-            if (array.Skip(i * 8).Take(8).Sum(n => (int) n) > 0) continue;
+            if (array.Skip(i * 8).Take(8).Sum(n => (int)n) > 0) continue;
 
             if (i >= 'a' && i <= 'z' && noSmallLetters)
             {
@@ -107,23 +107,23 @@ namespace Txt2Pf
               bs.SetLength(96 * 8);
               using (var bw = new BinaryWriter(bs))
               {
-                bw.Write(array, 32 * 8, 96 * 8);
+                bw.Write(array, 32 * 8, (int)bs.Length);
               }
             }
             else if (firstCharacter < ' ' && lastCharacter <= '\x80')
             {
-              bs.SetLength(96 * 8);
+              bs.SetLength(128 * 8);
               using (var bw = new BinaryWriter(bs))
               {
-                bw.Write(array, 0, 128 * 8);
+                bw.Write(array, 0, (int)bs.Length);
               }
             }
             else
             {
-              bs.SetLength(96 * 8);
+              bs.SetLength(142 * 8);
               using (var bw = new BinaryWriter(bs))
               {
-                bw.Write(array, 0, 142 * 8);
+                bw.Write(array, 0, (int)bs.Length);
               }
             }
           }
@@ -131,7 +131,8 @@ namespace Txt2Pf
       }
     }
 
-    private static readonly byte[,] Charfont = {
+    private static readonly byte[,] Charfont = 
+    {
       { 0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00 },         // 0    [0x0]
 	  { 0x55,0x55,0x55,0x55,0x55,0x55,0x55,0x55 },         // 1    [0x1]
 	  { 0x2A,0x2A,0x2A,0x2A,0x2A,0x2A,0x2A,0x2A },         // 2    [0x2]
