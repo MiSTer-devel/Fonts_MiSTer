@@ -1,0 +1,6 @@
+[FORMAT]
+indent-string='  '
+max-line-length=180
+
+[MESSAGES CONTROL]
+disable=C0103, C0111, C0321, C0326, R1710, W0703
