@@ -37,7 +37,7 @@ def main():
             png_rows.append([])
           png_row = png_rows[png_line]
           for bit in range(7, -1, -1):
-            png_row.append(0 if ((char_byte >> bit) & 1) else 255)
+            png_row.append(255 if ((char_byte >> bit) & 1) else 0)
 
       with open(args.out_png, "wb") as file:
         writer = png.Writer(size=(len(png_rows[0]),len(png_rows)), greyscale=True, compression=9)

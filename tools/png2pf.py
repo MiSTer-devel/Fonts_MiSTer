@@ -27,7 +27,7 @@ def read_png_1bpp(path):
   for line in data:
     l = []
     for rgba in chunks(line, 4):
-      l.append((rgba[3] > 127) and (0.2989 * rgba[0] + 0.5870 * rgba[1] + 0.1140 * rgba[2]) < 128)
+      l.append((rgba[3] > 127) and (0.2989 * rgba[0] + 0.5870 * rgba[1] + 0.1140 * rgba[2]) > 127)
     bitmap.append(l)
   return bitmap
 
