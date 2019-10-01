@@ -598,6 +598,14 @@
 ![Arcade_Aero_Fighters_(Kaneko)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Default.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Default.pf)
 ***
+### Default - Rotated left
+![Arcade_Aero_Fighters_(Kaneko)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Default_rotated-left.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Default_rotated-left.pf)
+***
+### Default - Rotated right
+![Arcade_Aero_Fighters_(Kaneko)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Default_rotated-right.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Default_rotated-right.pf)
+***
 ### MilkyTracker_ARIEL
 ![Arcade_Aero_Fighters_(Kaneko)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/MilkyTracker_ARIEL.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_ARIEL.pf)
