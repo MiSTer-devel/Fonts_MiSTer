@@ -739,9 +739,9 @@
 ![Arcade_Aero_Fighters_(Kaneko)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Misc_8bit.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_8bit.pf)
 ***
-### Misc_8x4
-![Arcade_Aero_Fighters_(Kaneko)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Misc_8x4.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_8x4.pf)
+### Misc_4x8
+![Arcade_Aero_Fighters_(Kaneko)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Misc_4x8.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_4x8.pf)
 ***
 ### Misc_Cheepicus
 ![Arcade_Aero_Fighters_(Kaneko)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Misc_Cheepicus.png)<br />
