@@ -19,6 +19,8 @@ def chunks(seq, size):
   return (seq[pos:pos + size] for pos in range(0, len(seq), size))
 
 def main():
+  CHARS_PER_LINE = 16
+
   try:
     parser = argparse.ArgumentParser()
     parser.add_argument("-i", "--in-pf", dest="in_pf", metavar="FILE", required=True, type=lambda x: is_file(parser, x), help="input bitmap")
@@ -26,13 +28,14 @@ def main():
     args = parser.parse_args()
 
     pf = list(open(args.in_pf, "rb").read())
+    if len(pf) % (CHARS_PER_LINE * 8) != 0:
+      pf.extend([0] * (CHARS_PER_LINE * 8 - len(pf) % (CHARS_PER_LINE * 8)))
 
     if args.out_png:
-      chars_per_line = 16
       png_rows = []
       for (char_index, char) in enumerate(chunks(pf, 8)):
         for (char_line, char_byte) in enumerate(char):
-          png_line = (char_index // chars_per_line) * 8 + char_line
+          png_line = (char_index //  CHARS_PER_LINE) * 8 + char_line
           if len(png_rows) <= png_line:
             png_rows.append([])
           png_row = png_rows[png_line]
