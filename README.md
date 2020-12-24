@@ -506,6 +506,10 @@
 ![Computer_Atari8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Computer_Atari8.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Atari8.pf)
 ***
+### Computer_Atari8_Script
+![Computer_Atari8_Script](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Computer_Atari8_Script.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Atari8_Script.pf)
+***
 ### Computer_Atari_ST
 ![Computer_Atari_ST](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Computer_Atari_ST.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Atari_ST.pf)
@@ -765,6 +769,10 @@
 ### Misc_Family_Picross
 ![Misc_Family_Picross](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Misc_Family_Picross.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Family_Picross.pf)
+***
+### Misc_Final_Fantasy
+![Misc_Final_Fantasy](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Misc_Final_Fantasy.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Final_Fantasy.pf)
 ***
 ### Misc_GBA-Multiboot
 ![Misc_GBA-Multiboot](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview/Misc_GBA-Multiboot.png)<br />
