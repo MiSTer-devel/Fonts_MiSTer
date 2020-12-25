@@ -526,6 +526,10 @@
 ![Computer_C64](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_C64.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_C64.pf)
 ***
+### Computer_C64_Hyper_Sports_A
+![Computer_C64_Hyper_Sports_A](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_C64_Hyper_Sports_A.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_C64_Hyper_Sports_A.pf)
+***
 ### Computer_CompaqThin_8x8
 ![Computer_CompaqThin_8x8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_CompaqThin_8x8.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_CompaqThin_8x8.pf)
@@ -741,6 +745,10 @@
 ### Misc_4x8
 ![Misc_4x8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_4x8.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_4x8.pf)
+***
+### Misc_Broderbund_Software
+![Misc_Broderbund_Software](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Broderbund_Software.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Broderbund_Software.pf)
 ***
 ### Misc_Cheepicus
 ![Misc_Cheepicus](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Cheepicus.png)<br />
