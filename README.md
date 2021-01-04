@@ -842,6 +842,10 @@
 ![Misc_Sabine](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Sabine.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Sabine.pf)
 ***
+### Misc_TI83plus
+![Misc_TI83plus](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_TI83plus.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_TI83plus.pf)
+***
 ### Misc_TmEe
 ![Misc_TmEe](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_TmEe.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_TmEe.pf)
