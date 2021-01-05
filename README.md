@@ -178,6 +178,10 @@
 ![Arcade_Guardians_(Banpresto)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Guardians_(Banpresto).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Guardians_(Banpresto).pf)
 ***
+### Arcade_Gun_Smoke_(Capcom)
+![Arcade_Gun_Smoke_(Capcom)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Gun_Smoke_(Capcom).png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Gun_Smoke_(Capcom).pf)
+***
 ### Arcade_GunBuster_(Taito)
 ![Arcade_GunBuster_(Taito)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_GunBuster_(Taito).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_GunBuster_(Taito).pf)
@@ -185,10 +189,6 @@
 ### Arcade_GunNail_(NMK)
 ![Arcade_GunNail_(NMK)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_GunNail_(NMK).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_GunNail_(NMK).pf)
-***
-### Arcade_Gun_Smoke_(Capcom)
-![Arcade_Gun_Smoke_(Capcom)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Gun_Smoke_(Capcom).png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Gun_Smoke_(Capcom).pf)
 ***
 ### Arcade_Gyruss_(Konami)
 ![Arcade_Gyruss_(Konami)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Gyruss_(Konami).png)<br />
@@ -330,6 +330,14 @@
 ![Arcade_Puzzle_Bobble_(Taito)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Puzzle_Bobble_(Taito).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Puzzle_Bobble_(Taito).pf)
 ***
+### Arcade_R_Type_(Irem)
+![Arcade_R_Type_(Irem)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_R_Type_(Irem).png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_R_Type_(Irem).pf)
+***
+### Arcade_R_Type_LEO_(Irem)
+![Arcade_R_Type_LEO_(Irem)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_R_Type_LEO_(Irem).png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_R_Type_LEO_(Irem).pf)
+***
 ### Arcade_Rapid_Hero_(MTC)
 ![Arcade_Rapid_Hero_(MTC)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Rapid_Hero_(MTC).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Rapid_Hero_(MTC).pf)
@@ -345,14 +353,6 @@
 ### Arcade_Rumba_Lumber_(Taito)
 ![Arcade_Rumba_Lumber_(Taito)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Rumba_Lumber_(Taito).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Rumba_Lumber_(Taito).pf)
-***
-### Arcade_R_Type_(Irem)
-![Arcade_R_Type_(Irem)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_R_Type_(Irem).png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_R_Type_(Irem).pf)
-***
-### Arcade_R_Type_LEO_(Irem)
-![Arcade_R_Type_LEO_(Irem)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_R_Type_LEO_(Irem).png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_R_Type_LEO_(Irem).pf)
 ***
 ### Arcade_Salamander_2_(Konami)
 ![Arcade_Salamander_2_(Konami)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Salamander_2_(Konami).png)<br />
@@ -470,9 +470,9 @@
 ![Arcade_Xexex_(Konami)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Xexex_(Konami).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Xexex_(Konami).pf)
 ***
-### Computer_Amiga-Topaz
-![Computer_Amiga-Topaz](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Amiga-Topaz.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Amiga-Topaz.pf)
+### Computer_AMI_BIOS
+![Computer_AMI_BIOS](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_AMI_BIOS.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_AMI_BIOS.pf)
 ***
 ### Computer_AmigaKS1.x
 ![Computer_AmigaKS1.x](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_AmigaKS1.x.png)<br />
@@ -482,17 +482,17 @@
 ![Computer_AmigaKS2.x](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_AmigaKS2.x.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_AmigaKS2.x.pf)
 ***
-### Computer_AMI_BIOS
-![Computer_AMI_BIOS](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_AMI_BIOS.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_AMI_BIOS.pf)
-***
-### Computer_AmstradPC1512
-![Computer_AmstradPC1512](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_AmstradPC1512.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_AmstradPC1512.pf)
+### Computer_Amiga-Topaz
+![Computer_Amiga-Topaz](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Amiga-Topaz.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Amiga-Topaz.pf)
 ***
 ### Computer_Amstrad_CPC
 ![Computer_Amstrad_CPC](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Amstrad_CPC.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Amstrad_CPC.pf)
+***
+### Computer_AmstradPC1512
+![Computer_AmstradPC1512](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_AmstradPC1512.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_AmstradPC1512.pf)
 ***
 ### Computer_Apple_II
 ![Computer_Apple_II](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Apple_II.png)<br />
@@ -502,17 +502,21 @@
 ![Computer_Apple_IIGS](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Apple_IIGS.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Apple_IIGS.pf)
 ***
+### Computer_Atari_ST
+![Computer_Atari_ST](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Atari_ST.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Atari_ST.pf)
+***
 ### Computer_Atari8
 ![Computer_Atari8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Atari8.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Atari8.pf)
 ***
+### Computer_Atari8_HOHL
+![Computer_Atari8_HOHL](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Atari8_HOHL.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Atari8_HOHL.pf)
+***
 ### Computer_Atari8_Script
 ![Computer_Atari8_Script](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Atari8_Script.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Atari8_Script.pf)
-***
-### Computer_Atari_ST
-![Computer_Atari_ST](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Atari_ST.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Atari_ST.pf)
 ***
 ### Computer_ATI_8x8
 ![Computer_ATI_8x8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_ATI_8x8.png)<br />
@@ -570,13 +574,13 @@
 ![Computer_PET](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_PET.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_PET.pf)
 ***
-### Computer_PhoenixEGA_8x8
-![Computer_PhoenixEGA_8x8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_PhoenixEGA_8x8.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_PhoenixEGA_8x8.pf)
-***
 ### Computer_Phoenix_BIOS
 ![Computer_Phoenix_BIOS](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Phoenix_BIOS.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Phoenix_BIOS.pf)
+***
+### Computer_PhoenixEGA_8x8
+![Computer_PhoenixEGA_8x8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_PhoenixEGA_8x8.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_PhoenixEGA_8x8.pf)
 ***
 ### Computer_TandyNew_TV
 ![Computer_TandyNew_TV](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_TandyNew_TV.png)<br />
@@ -606,8 +610,8 @@
 ![Default](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Default.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Default.pf)
 ***
-### Default - Rotated left
-![Default - Rotated left](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Default_rotated-left.png)<br />
+### Default_rotated-left
+![Default_rotated-left](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Default_rotated-left.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Default_rotated-left.pf)
 ***
 ### MilkyTracker_ARIEL
@@ -738,21 +742,121 @@
 ![MilkyTracker_ZIRCFONT](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_ZIRCFONT.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_ZIRCFONT.pf)
 ***
+### Misc_4x8
+![Misc_4x8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_4x8.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_4x8.pf)
+***
 ### Misc_8bit
 ![Misc_8bit](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_8bit.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_8bit.pf)
 ***
-### Misc_4x8
-![Misc_4x8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_4x8.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_4x8.pf)
+### Misc_Air_Fortress
+![Misc_Air_Fortress](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Air_Fortress.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Air_Fortress.pf)
+***
+### Misc_Batman
+![Misc_Batman](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Batman.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Batman.pf)
+***
+### Misc_Bionic_Commando
+![Misc_Bionic_Commando](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Bionic_Commando.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Bionic_Commando.pf)
+***
+### Misc_Bonk
+![Misc_Bonk](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Bonk.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Bonk.pf)
 ***
 ### Misc_Broderbund_Software
 ![Misc_Broderbund_Software](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Broderbund_Software.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Broderbund_Software.pf)
 ***
+### Misc_Burger_Time
+![Misc_Burger_Time](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Burger_Time.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Burger_Time.pf)
+***
 ### Misc_Cheepicus
 ![Misc_Cheepicus](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Cheepicus.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Cheepicus.pf)
+***
+### Misc_CHEVYRAY-Baby_Blocks
+![Misc_CHEVYRAY-Baby_Blocks](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Baby_Blocks.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Baby_Blocks.pf)
+***
+### Misc_CHEVYRAY-Bird_Seed
+![Misc_CHEVYRAY-Bird_Seed](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Bird_Seed.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Bird_Seed.pf)
+***
+### Misc_CHEVYRAY-Chocolate-a
+![Misc_CHEVYRAY-Chocolate-a](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Chocolate-a.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Chocolate-a.pf)
+***
+### Misc_CHEVYRAY-Chocolate-b
+![Misc_CHEVYRAY-Chocolate-b](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Chocolate-b.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Chocolate-b.pf)
+***
+### Misc_CHEVYRAY-Crates
+![Misc_CHEVYRAY-Crates](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Crates.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Crates.pf)
+***
+### Misc_CHEVYRAY-Express
+![Misc_CHEVYRAY-Express](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Express.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Express.pf)
+***
+### Misc_CHEVYRAY-Lantern
+![Misc_CHEVYRAY-Lantern](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Lantern.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Lantern.pf)
+***
+### Misc_CHEVYRAY-Little_League
+![Misc_CHEVYRAY-Little_League](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Little_League.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Little_League.pf)
+***
+### Misc_CHEVYRAY-Picory
+![Misc_CHEVYRAY-Picory](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Picory.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Picory.pf)
+***
+### Misc_CHEVYRAY-Pinch
+![Misc_CHEVYRAY-Pinch](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Pinch.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Pinch.pf)
+***
+### Misc_CHEVYRAY-Rise
+![Misc_CHEVYRAY-Rise](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Rise.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Rise.pf)
+***
+### Misc_CHEVYRAY-Skullboy
+![Misc_CHEVYRAY-Skullboy](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Skullboy.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Skullboy.pf)
+***
+### Misc_CHEVYRAY-Softsquare
+![Misc_CHEVYRAY-Softsquare](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Softsquare.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Softsquare.pf)
+***
+### Misc_CHEVYRAY-Space_Loot
+![Misc_CHEVYRAY-Space_Loot](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Space_Loot.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Space_Loot.pf)
+***
+### Misc_CHEVYRAY-Stapler
+![Misc_CHEVYRAY-Stapler](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Stapler.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Stapler.pf)
+***
+### Misc_CHEVYRAY-Tentown
+![Misc_CHEVYRAY-Tentown](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Tentown.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Tentown.pf)
+***
+### Misc_CHEVYRAY-Thicket
+![Misc_CHEVYRAY-Thicket](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Thicket.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Thicket.pf)
+***
+### Misc_CHEVYRAY-Thinstix
+![Misc_CHEVYRAY-Thinstix](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Thinstix.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Thinstix.pf)
+***
+### Misc_CHEVYRAY-Vector
+![Misc_CHEVYRAY-Vector](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Vector.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Vector.pf)
+***
+### Misc_Chicago
+![Misc_Chicago](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Chicago.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Chicago.pf)
 ***
 ### Misc_Chicago-Mono
 ![Misc_Chicago-Mono](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Chicago-Mono.png)<br />
@@ -762,9 +866,21 @@
 ![Misc_Chicago-Oblique](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Chicago-Oblique.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Chicago-Oblique.pf)
 ***
-### Misc_Chicago
-![Misc_Chicago](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Chicago.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Chicago.pf)
+### Misc_Code_Name_Viper
+![Misc_Code_Name_Viper](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Code_Name_Viper.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Code_Name_Viper.pf)
+***
+### Misc_Comic_Italic
+![Misc_Comic_Italic](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Comic_Italic.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Comic_Italic.pf)
+***
+### Misc_Console_Dullard
+![Misc_Console_Dullard](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Console_Dullard.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Console_Dullard.pf)
+***
+### Misc_DMG-Sans-v01
+![Misc_DMG-Sans-v01](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_DMG-Sans-v01.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_DMG-Sans-v01.pf)
 ***
 ### Misc_Dragon_Warrior
 ![Misc_Dragon_Warrior](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Dragon_Warrior.png)<br />
@@ -777,6 +893,18 @@
 ### Misc_Family_Picross
 ![Misc_Family_Picross](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Family_Picross.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Family_Picross.pf)
+***
+### Misc_Fantasy_Zone
+![Misc_Fantasy_Zone](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Fantasy_Zone.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Fantasy_Zone.pf)
+***
+### Misc_Faxanadu_Caps
+![Misc_Faxanadu_Caps](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Faxanadu_Caps.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Faxanadu_Caps.pf)
+***
+### Misc_Faxnadu
+![Misc_Faxnadu](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Faxnadu.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Faxnadu.pf)
 ***
 ### Misc_Final_Fantasy
 ![Misc_Final_Fantasy](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Final_Fantasy.png)<br />
@@ -798,17 +926,49 @@
 ![Misc_Kevtris](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Kevtris.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Kevtris.pf)
 ***
+### Misc_Kid_Icarus
+![Misc_Kid_Icarus](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Kid_Icarus.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Kid_Icarus.pf)
+***
+### Misc_Kirby
+![Misc_Kirby](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Kirby.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Kirby.pf)
+***
 ### Misc_Mega_Man_9
 ![Misc_Mega_Man_9](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Mega_Man_9.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Mega_Man_9.pf)
+***
+### Misc_Metroid
+![Misc_Metroid](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Metroid.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Metroid.pf)
 ***
 ### Misc_Min
 ![Misc_Min](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Min.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Min.pf)
 ***
+### Misc_Miracle_World
+![Misc_Miracle_World](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Miracle_World.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Miracle_World.pf)
+***
 ### Misc_NES
 ![Misc_NES](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_NES.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_NES.pf)
+***
+### Misc_NGPC-Pocket_Sans
+![Misc_NGPC-Pocket_Sans](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_NGPC-Pocket_Sans.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_NGPC-Pocket_Sans.pf)
+***
+### Misc_Nise-Genesis
+![Misc_Nise-Genesis](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Nise-Genesis.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Nise-Genesis.pf)
+***
+### Misc_Nise-SuperHangOn
+![Misc_Nise-SuperHangOn](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Nise-SuperHangOn.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Nise-SuperHangOn.pf)
+***
+### Misc_Nise-Zillion
+![Misc_Nise-Zillion](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Nise-Zillion.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Nise-Zillion.pf)
 ***
 ### Misc_Oddball
 ![Misc_Oddball](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Oddball.png)<br />
@@ -818,17 +978,17 @@
 ![Misc_OptirocAM2](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_OptirocAM2.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_OptirocAM2.pf)
 ***
-### Misc_OptirocDMG-Wide
-![Misc_OptirocDMG-Wide](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_OptirocDMG-Wide.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_OptirocDMG-Wide.pf)
-***
 ### Misc_OptirocDMG
 ![Misc_OptirocDMG](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_OptirocDMG.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_OptirocDMG.pf)
 ***
-### Misc_Quake2_(id)
-![Misc_Quake2_(id)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Quake2_(id).png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Quake2_(id).pf)
+### Misc_OptirocDMG-Wide
+![Misc_OptirocDMG-Wide](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_OptirocDMG-Wide.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_OptirocDMG-Wide.pf)
+***
+### Misc_Pico-8
+![Misc_Pico-8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Pico-8.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Pico-8.pf)
 ***
 ### Misc_Quake_(id)
 ![Misc_Quake_(id)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Quake_(id).png)<br />
@@ -838,9 +998,73 @@
 ![Misc_Quake_(id)_alt](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Quake_(id)_alt.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Quake_(id)_alt.pf)
 ***
+### Misc_Quake2_(id)
+![Misc_Quake2_(id)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Quake2_(id).png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Quake2_(id).pf)
+***
+### Misc_RGBSOURCE-AfterBurnerII
+![Misc_RGBSOURCE-AfterBurnerII](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-AfterBurnerII.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-AfterBurnerII.pf)
+***
+### Misc_RGBSOURCE-AlteredBeast
+![Misc_RGBSOURCE-AlteredBeast](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-AlteredBeast.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-AlteredBeast.pf)
+***
+### Misc_RGBSOURCE-BartVsSM
+![Misc_RGBSOURCE-BartVsSM](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-BartVsSM.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-BartVsSM.pf)
+***
+### Misc_RGBSOURCE-Castlevania2
+![Misc_RGBSOURCE-Castlevania2](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-Castlevania2.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-Castlevania2.pf)
+***
+### Misc_RGBSOURCE-Castlevania3
+![Misc_RGBSOURCE-Castlevania3](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-Castlevania3.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-Castlevania3.pf)
+***
+### Misc_RGBSOURCE-Contra
+![Misc_RGBSOURCE-Contra](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-Contra.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-Contra.pf)
+***
+### Misc_RGBSOURCE-Earthbound
+![Misc_RGBSOURCE-Earthbound](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-Earthbound.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-Earthbound.pf)
+***
+### Misc_RGBSOURCE-FinalFantasy
+![Misc_RGBSOURCE-FinalFantasy](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-FinalFantasy.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-FinalFantasy.pf)
+***
+### Misc_RGBSOURCE-MarioMissing
+![Misc_RGBSOURCE-MarioMissing](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-MarioMissing.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-MarioMissing.pf)
+***
+### Misc_RGBSOURCE-Metroid
+![Misc_RGBSOURCE-Metroid](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-Metroid.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-Metroid.pf)
+***
+### Misc_RGBSOURCE-StriderSg
+![Misc_RGBSOURCE-StriderSg](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-StriderSg.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-StriderSg.pf)
+***
+### Misc_RGBSOURCE-SuperHangOn
+![Misc_RGBSOURCE-SuperHangOn](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-SuperHangOn.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-SuperHangOn.pf)
+***
+### Misc_RGBSOURCE-Willow
+![Misc_RGBSOURCE-Willow](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-Willow.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-Willow.pf)
+***
 ### Misc_Sabine
 ![Misc_Sabine](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Sabine.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Sabine.pf)
+***
+### Misc_Star_City
+![Misc_Star_City](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Star_City.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Star_City.pf)
+***
+### Misc_StarTropics
+![Misc_StarTropics](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_StarTropics.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_StarTropics.pf)
 ***
 ### Misc_TI83plus
 ![Misc_TI83plus](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_TI83plus.png)<br />
@@ -870,7 +1094,39 @@
 ![Misc_Unscii_Thin](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Unscii_Thin.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Unscii_Thin.pf)
 ***
+### Misc_WAVBIRD-Comic_Italic
+![Misc_WAVBIRD-Comic_Italic](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_WAVBIRD-Comic_Italic.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_WAVBIRD-Comic_Italic.pf)
+***
+### Misc_WAVBIRD-Dullard
+![Misc_WAVBIRD-Dullard](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_WAVBIRD-Dullard.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_WAVBIRD-Dullard.pf)
+***
+### Misc_WAVBIRD-NGPC-Pocket-Sans
+![Misc_WAVBIRD-NGPC-Pocket-Sans](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_WAVBIRD-NGPC-Pocket-Sans.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_WAVBIRD-NGPC-Pocket-Sans.pf)
+***
+### Misc_WAVBIRD-Sans_v01
+![Misc_WAVBIRD-Sans_v01](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_WAVBIRD-Sans_v01.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_WAVBIRD-Sans_v01.pf)
+***
+### Misc_WAVBIRD-Star-City
+![Misc_WAVBIRD-Star-City](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_WAVBIRD-Star-City.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_WAVBIRD-Star-City.pf)
+***
+### Misc_Xexyz
+![Misc_Xexyz](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Xexyz.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Xexyz.pf)
+***
 ### Misc_Xkeeper
 ![Misc_Xkeeper](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Xkeeper.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Xkeeper.pf)
+***
+### Misc_Zelda
+![Misc_Zelda](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Zelda.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Zelda.pf)
+***
+### Misc_Zelda_2
+![Misc_Zelda_2](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Zelda_2.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Zelda_2.pf)
 ***
