@@ -870,10 +870,6 @@
 ![Misc_Code_Name_Viper](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Code_Name_Viper.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Code_Name_Viper.pf)
 ***
-### Misc_Comic_Italic
-![Misc_Comic_Italic](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Comic_Italic.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Comic_Italic.pf)
-***
 ### Misc_Console_Dullard
 ![Misc_Console_Dullard](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Console_Dullard.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Console_Dullard.pf)
@@ -902,9 +898,9 @@
 ![Misc_Faxanadu_Caps](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Faxanadu_Caps.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Faxanadu_Caps.pf)
 ***
-### Misc_Faxnadu
-![Misc_Faxnadu](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Faxnadu.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Faxnadu.pf)
+### Misc_Faxanadu
+![Misc_Faxanadu](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Faxanadu.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Faxanadu.pf)
 ***
 ### Misc_Final_Fantasy
 ![Misc_Final_Fantasy](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Final_Fantasy.png)<br />
@@ -1066,9 +1062,9 @@
 ![Misc_StarTropics](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_StarTropics.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_StarTropics.pf)
 ***
-### Misc_TI83plus
-![Misc_TI83plus](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_TI83plus.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_TI83plus.pf)
+### Misc_TI83
+![Misc_TI83](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_TI83.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_TI83.pf)
 ***
 ### Misc_TmEe
 ![Misc_TmEe](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_TmEe.png)<br />
