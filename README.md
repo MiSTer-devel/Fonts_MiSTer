@@ -1070,6 +1070,10 @@
 ![Misc_Pico-8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Pico-8.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Pico-8.pf)
 ***
+### Misc_PxlFont23
+![Misc_PxlFont23](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_PxlFont23.png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_PxlFont23.pf)
+***
 ### Misc_Quake_(id)
 ![Misc_Quake_(id)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Quake_(id).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Quake_(id).pf)
