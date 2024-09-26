@@ -34,6 +34,10 @@
 ![Arcade_Batsugun_(Toaplan)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Batsugun_(Toaplan).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Batsugun_(Toaplan).pf)
 ***
+### Arcade_Battle_Bakraid_(Eighting)
+![Arcade_Battle_Bakraid_(Eighting)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Battle_Bakraid_(Eighting).png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Battle_Bakraid_(Eighting).pf)
+***
 ### Arcade_Black_Tiger_(Capcom)
 ![Arcade_Black_Tiger_(Capcom)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Black_Tiger_(Capcom).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Black_Tiger_(Capcom).pf)
@@ -194,6 +198,10 @@
 ![Arcade_Hat_Trick_Hero_95_(Taito)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Hat_Trick_Hero_95_(Taito).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Hat_Trick_Hero_95_(Taito).pf)
 ***
+### Arcade_Hydra_(Atari)
+![Arcade_Hydra_(Atari)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Hydra_(Atari).png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Hydra_(Atari).pf)
+***
 ### Arcade_Image_Fight_(IREM)
 ![Arcade_Image_Fight_(IREM)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Image_Fight_(IREM).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Image_Fight_(IREM).pf)
@@ -266,6 +274,10 @@
 ![Arcade_Monster_Mauler_(Konami)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Monster_Mauler_(Konami).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Monster_Mauler_(Konami).pf)
 ***
+### Arcade_Moonwalker_(Sega)
+![Arcade_Moonwalker_(Sega)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Moonwalker_(Sega).png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Moonwalker_(Sega).pf)
+***
 ### Arcade_Mutant_Night_(UPL)
 ![Arcade_Mutant_Night_(UPL)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Mutant_Night_(UPL).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Mutant_Night_(UPL).pf)
@@ -329,6 +341,10 @@
 ### Arcade_R_Type_LEO_(Irem)
 ![Arcade_R_Type_LEO_(Irem)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_R_Type_LEO_(Irem).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_R_Type_LEO_(Irem).pf)
+***
+### Arcade_Radiant_Silvergun_(Treasure)
+![Arcade_Radiant_Silvergun_(Treasure)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Radiant_Silvergun_(Treasure).png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Radiant_Silvergun_(Treasure).pf)
 ***
 ### Arcade_RayForce_(Taito)
 ![Arcade_RayForce_(Taito)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_RayForce_(Taito).png)<br />
@@ -453,6 +469,10 @@
 ### Arcade_Willow_(Capcom)
 ![Arcade_Willow_(Capcom)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Willow_(Capcom).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Willow_(Capcom).pf)
+***
+### Arcade_Xevious_(Namco)
+![Arcade_Xevious_(Namco)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Xevious_(Namco).png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Xevious_(Namco).pf)
 ***
 ### Arcade_Xexex_(Konami)
 ![Arcade_Xexex_(Konami)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Xexex_(Konami).png)<br />
