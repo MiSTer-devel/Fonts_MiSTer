@@ -390,9 +390,9 @@
 ![Arcade_Snow_Bros_(Toaplan)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Snow_Bros_(Toaplan).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Snow_Bros_(Toaplan).pf)
 ***
-### Arcade_Soldam_(Data_East)
-![Arcade_Soldam_(Data_East)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Soldam_(Data_East).png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Soldam_(Data_East).pf)
+### Arcade_Soldam_(Jaleco)
+![Arcade_Soldam_(Jaleco)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Soldam_(Jaleco).png)<br />
+[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Soldam_(Jaleco).pf)
 ***
 ### Arcade_Solomons_Key_(Tecmo)
 ![Arcade_Solomons_Key_(Tecmo)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Solomons_Key_(Tecmo).png)<br />
