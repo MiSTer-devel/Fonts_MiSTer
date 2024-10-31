@@ -62,10 +62,6 @@
 ![Arcade_Boulder_Dash_(Data_East)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Boulder_Dash_(Data_East).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Boulder_Dash_(Data_East).pf)
 ***
-### Arcade_Bubble_Memories_Alien_(Taito)
-![Arcade_Bubble_Memories_Alien_(Taito)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Bubble_Memories_Alien_(Taito).png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Bubble_Memories_Alien_(Taito).pf)
-***
 ### Arcade_Bubble_Symphony_(Taito)
 ![Arcade_Bubble_Symphony_(Taito)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Bubble_Symphony_(Taito).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Bubble_Symphony_(Taito).pf)
@@ -117,10 +113,6 @@
 ### Arcade_Dynamite_Dux_(Sega)
 ![Arcade_Dynamite_Dux_(Sega)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Dynamite_Dux_(Sega).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Dynamite_Dux_(Sega).pf)
-***
-### Arcade_Fantasy_Zone_(Sega)
-![Arcade_Fantasy_Zone_(Sega)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Fantasy_Zone_(Sega).png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Fantasy_Zone_(Sega).pf)
 ***
 ### Arcade_Final_Star_Force_(Tecmo)
 ![Arcade_Final_Star_Force_(Tecmo)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Final_Star_Force_(Tecmo).png)<br />
@@ -302,10 +294,6 @@
 ![Arcade_Ninja_Spirit_(IREM)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Ninja_Spirit_(IREM).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Ninja_Spirit_(IREM).pf)
 ***
-### Arcade_Outfoxies_(Namco)
-![Arcade_Outfoxies_(Namco)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Outfoxies_(Namco).png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Outfoxies_(Namco).pf)
-***
 ### Arcade_Outfoxies_(Namco)_alt
 ![Arcade_Outfoxies_(Namco)_alt](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Outfoxies_(Namco)_alt.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Outfoxies_(Namco)_alt.pf)
@@ -349,10 +337,6 @@
 ### Arcade_RayForce_(Taito)
 ![Arcade_RayForce_(Taito)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_RayForce_(Taito).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_RayForce_(Taito).pf)
-***
-### Arcade_Robotron_(Williams)
-![Arcade_Robotron_(Williams)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Robotron_(Williams).png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Robotron_(Williams).pf)
 ***
 ### Arcade_Rumba_Lumber_(Taito)
 ![Arcade_Rumba_Lumber_(Taito)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Rumba_Lumber_(Taito).png)<br />
@@ -517,10 +501,6 @@
 ### Computer_Atari8
 ![Computer_Atari8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Atari8.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Atari8.pf)
-***
-### Computer_Atari8_HOHL
-![Computer_Atari8_HOHL](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Atari8_HOHL.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Computer_Atari8_HOHL.pf)
 ***
 ### Computer_Atari8_Script
 ![Computer_Atari8_Script](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Computer_Atari8_Script.png)<br />
@@ -966,10 +946,6 @@
 ![Misc_Metroid](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Metroid.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Metroid.pf)
 ***
-### Misc_Min
-![Misc_Min](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Min.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Min.pf)
-***
 ### Misc_Miracle_World
 ![Misc_Miracle_World](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Miracle_World.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Miracle_World.pf)
@@ -1006,10 +982,6 @@
 ![Misc_OptirocDMG-Wide](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_OptirocDMG-Wide.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_OptirocDMG-Wide.pf)
 ***
-### Misc_Pico-8
-![Misc_Pico-8](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Pico-8.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Pico-8.pf)
-***
 ### Misc_PxlFont23
 ![Misc_PxlFont23](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_PxlFont23.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_PxlFont23.pf)
@@ -1029,10 +1001,6 @@
 ### Misc_RGBSOURCE-AfterBurnerII
 ![Misc_RGBSOURCE-AfterBurnerII](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-AfterBurnerII.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-AfterBurnerII.pf)
-***
-### Misc_RGBSOURCE-AlteredBeast
-![Misc_RGBSOURCE-AlteredBeast](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-AlteredBeast.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_RGBSOURCE-AlteredBeast.pf)
 ***
 ### Misc_RGBSOURCE-Castlevania2
 ![Misc_RGBSOURCE-Castlevania2](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_RGBSOURCE-Castlevania2.png)<br />
