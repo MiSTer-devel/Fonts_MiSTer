@@ -1,3 +1,9 @@
+# Fonts for [MiSTer FPGA](https://mister-devel.github.io/MkDocs_MiSTer/)
+
+## Description
+
+This repo contains all of the custom fonts for the MiSTer FPGA project. You can view the previews of the fonts below. A Pixelfont editor such as [8x8 Pixel ROM Font Editor](https://www.min.at/prinz/o/software/pixelfont/) by Richard Prinz can be used to generate your own, or you can edit them via the txt files in `./src/txt`. If you are interested in contributing, the tools folder has scripts to generate the pf files from text or to convert the pf files to png previews and more.
+
 ### Arcade_Aero_Fighters_(Kaneko)
 ![Arcade_Aero_Fighters_(Kaneko)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Aero_Fighters_(Kaneko).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Aero_Fighters_(Kaneko).pf)
