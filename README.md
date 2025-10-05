@@ -184,10 +184,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ![Arcade_GunNail_(NMK)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_GunNail_(NMK).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_GunNail_(NMK).pf)
 ***
-### Arcade_Gyruss_(Konami)
-![Arcade_Gyruss_(Konami)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Gyruss_(Konami).png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Gyruss_(Konami).pf)
-***
 ### Arcade_Hacha_Mecha_Fighter_(NMK)
 ![Arcade_Hacha_Mecha_Fighter_(NMK)](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Arcade_Hacha_Mecha_Fighter_(NMK).png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Arcade_Hacha_Mecha_Fighter_(NMK).pf)
@@ -672,14 +668,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ![ImpulseTracker_EK-TEMP](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/ImpulseTracker_EK-TEMP.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/ImpulseTracker_EK-TEMP.pf)
 ***
-### ImpulseTracker_EK-TI81
-![ImpulseTracker_EK-TI81](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/ImpulseTracker_EK-TI81.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/ImpulseTracker_EK-TI81.pf)
-***
-### ImpulseTracker_EK-TI994
-![ImpulseTracker_EK-TI994](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/ImpulseTracker_EK-TI994.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/ImpulseTracker_EK-TI994.pf)
-***
 ### ImpulseTracker_EK-VGAME
 ![ImpulseTracker_EK-VGAME](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/ImpulseTracker_EK-VGAME.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/ImpulseTracker_EK-VGAME.pf)
@@ -728,10 +716,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ![MilkyTracker_FN-ROUND](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_FN-ROUND.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_FN-ROUND.pf)
 ***
-### MilkyTracker_GRAFPAPR
-![MilkyTracker_GRAFPAPR](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_GRAFPAPR.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_GRAFPAPR.pf)
-***
 ### MilkyTracker_GTHS-BUG
 ![MilkyTracker_GTHS-BUG](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_GTHS-BUG.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_GTHS-BUG.pf)
@@ -747,10 +731,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ### MilkyTracker_IDC-MicroKnight
 ![MilkyTracker_IDC-MicroKnight](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_IDC-MicroKnight.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_IDC-MicroKnight.pf)
-***
-### MilkyTracker_IDC-Topaz13
-![MilkyTracker_IDC-Topaz13](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_IDC-Topaz13.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_IDC-Topaz13.pf)
 ***
 ### MilkyTracker_IDC-Topaz20
 ![MilkyTracker_IDC-Topaz20](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_IDC-Topaz20.png)<br />
@@ -780,10 +760,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ![MilkyTracker_MOTIF](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_MOTIF.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_MOTIF.pf)
 ***
-### MilkyTracker_NOTCH
-![MilkyTracker_NOTCH](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_NOTCH.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_NOTCH.pf)
-***
 ### MilkyTracker_PEANUT
 ![MilkyTracker_PEANUT](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_PEANUT.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_PEANUT.pf)
@@ -811,10 +787,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ### MilkyTracker_XTSAMP
 ![MilkyTracker_XTSAMP](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_XTSAMP.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_XTSAMP.pf)
-***
-### MilkyTracker_ZERO
-![MilkyTracker_ZERO](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_ZERO.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_ZERO.pf)
 ***
 ### MilkyTracker_ZIRCFONT
 ![MilkyTracker_ZIRCFONT](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_ZIRCFONT.png)<br />
@@ -872,29 +844,13 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ![Misc_CHEVYRAY-Vector](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Vector.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Vector.pf)
 ***
-### Misc_Chicago
-![Misc_Chicago](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Chicago.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Chicago.pf)
-***
 ### Misc_Chicago-Mono
 ![Misc_Chicago-Mono](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Chicago-Mono.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Chicago-Mono.pf)
 ***
-### Misc_Chicago-Oblique
-![Misc_Chicago-Oblique](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Chicago-Oblique.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Chicago-Oblique.pf)
-***
 ### Misc_Code_Name_Viper
 ![Misc_Code_Name_Viper](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Code_Name_Viper.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Code_Name_Viper.pf)
-***
-### Misc_Console_Dullard
-![Misc_Console_Dullard](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Console_Dullard.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Console_Dullard.pf)
-***
-### Misc_DMG-Sans-v01
-![Misc_DMG-Sans-v01](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_DMG-Sans-v01.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_DMG-Sans-v01.pf)
 ***
 ### Misc_Dragon_Warrior
 ![Misc_Dragon_Warrior](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Dragon_Warrior.png)<br />
@@ -911,10 +867,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ### Misc_Fantasy_Zone
 ![Misc_Fantasy_Zone](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Fantasy_Zone.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Fantasy_Zone.pf)
-***
-### Misc_Faxanadu
-![Misc_Faxanadu](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Faxanadu.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Faxanadu.pf)
 ***
 ### Misc_Final_Fantasy
 ![Misc_Final_Fantasy](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Final_Fantasy.png)<br />
@@ -959,10 +911,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ### Misc_NES
 ![Misc_NES](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_NES.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_NES.pf)
-***
-### Misc_NGPC-Pocket_Sans
-![Misc_NGPC-Pocket_Sans](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_NGPC-Pocket_Sans.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_NGPC-Pocket_Sans.pf)
 ***
 ### Misc_Nise-Genesis
 ![Misc_Nise-Genesis](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Nise-Genesis.png)<br />
@@ -1052,10 +1000,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ![Misc_Sabine](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Sabine.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Sabine.pf)
 ***
-### Misc_Star_City
-![Misc_Star_City](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Star_City.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Star_City.pf)
-***
 ### Misc_StarTropics
 ![Misc_StarTropics](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_StarTropics.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_StarTropics.pf)
@@ -1119,8 +1063,4 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ### Misc_Zelda
 ![Misc_Zelda](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Zelda.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Zelda.pf)
-***
-### Misc_Zelda_2
-![Misc_Zelda_2](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Zelda_2.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Zelda_2.pf)
 ***
