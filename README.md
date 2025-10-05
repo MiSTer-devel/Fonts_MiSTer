@@ -756,10 +756,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ![MilkyTracker_KANAFONT](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_KANAFONT.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_KANAFONT.pf)
 ***
-### MilkyTracker_MOTIF
-![MilkyTracker_MOTIF](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_MOTIF.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_MOTIF.pf)
-***
 ### MilkyTracker_PEANUT
 ![MilkyTracker_PEANUT](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/MilkyTracker_PEANUT.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/MilkyTracker_PEANUT.pf)
